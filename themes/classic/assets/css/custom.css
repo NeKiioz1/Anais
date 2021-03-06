@@ -2,3 +2,106 @@
  * Custom code goes here.
  * A template should always ship with an empty custom.css
  */
+
+.header-nav {background-color: #0C5460;} /* modification de la couleur du header (hors panier) */
+
+#header a {color: white ;} /* modification de la couleur d'écriture du header */
+
+#header .header-nav .blockcart {background-color: #0C5460;} /* modification du background du panier */
+
+#header .header-nav .cart-preview .shopping-cart {color: white;} /* modification de la couleur de l'icone panier */
+
+#header {color: white;} /* modification de la couleur d'ecriture du panier */
+
+
+
+#wrapper { background-color: white;
+		box-shadow: inset 0 2px 0 #0C5460;} /* modification du background de la page et modification de la bordure de fondu à ligne*/
+
+.footer-container { box-shadow: inset 0 2px 0 #0C5460;
+					background-color: #0C5460;
+					 } /* modification du background du footer et de la bordure en ligne */
+
+
+
+.footer-container .h3 {color: white;} /* modification des couleurs d'écriture du footer */
+.footer-container .h4 {color: white;} /* modification des couleurs d'écriture du footer */
+#block_myaccount_infos .myaccount-title a {color: white;} /* modification des couleurs d'écriture du footer */
+.footer-container a {color: white;} /* modification des couleurs d'écriture du footer */
+.footer_account_list {color: white;} /* modification des couleurs d'écriture du footer */
+.footer-container li a {color: white;} /* modification des couleurs d'écriture du footer */
+.block-contact {color: white;} /* modification des couleurs d'écriture du footer */
+
+
+
+
+
+#products .highlighted-informations, .featured-products .highlighted-informations, .product-accessories .highlighted-informations, .product-miniature .highlighted-informations { 
+	box-shadow: inset 0 2px 0 #0C5460; } /* modification du fondu des produits */
+
+#products .thumbnail-container, .featured-products .thumbnail-container, .product-accessories .thumbnail-container, .product-miniature .thumbnail-container {
+border:  solid #0C5460;} /* modification des bordures des produits */
+
+#products .product-description, .featured-products .product-description, .product-accessories .product-description, .product-miniature .product-description { 
+	width: 245px;
+	height: 67px; } /* modification des bordures d'articles */
+
+#products .highlighted-informations, .featured-products .highlighted-informations, .product-accessories .highlighted-informations, .product-miniature .highlighted-informations {
+	width: 245px; } /* modification des bordures d'articles */
+
+
+
+
+/* 
+.product-flags {
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    z-index: 2
+}
+
+  
+   .product-flags li.product-flag {
+    pointer-events: auto;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    background: #2fb5d2;
+    font-weight: 700;
+    padding: .3125rem .4375rem;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: .625rem;
+    font-size: 1rem;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, .2)
+}
+
+supprimer ces block lignes 11297 et 11301 pour enlever le "neuf" */
+
+
+
+/* .search-widget form input[type=text] {background-color: #0C5460;}
+modifier cette ligne de code pour la couleur de fond de la barre de recherche */
+
+
+/* .search-widget form input[type=text] {
+    border: none;
+    padding: 10px;
+    color: #7a7a7a;
+    border: 3px solid #0C5460
+}
+changer ce block pour changer les bordures de la barre de recherche */
+
+
+
+
+.btn-primary {background-color: #A5C636;} /* modification du background des boutons */
