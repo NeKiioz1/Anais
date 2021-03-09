@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-03-09 08:36:36
+/* Smarty version 3.1.34-dev-7, created on 2021-03-09 12:00:17
   from 'C:\wamp64\www\anais\modules\ps_themecusto\views\templates\admin\page.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_6047258490f1c3_66364138',
+  'unifunc' => 'content_604755419db7a4_09117947',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./controllers/".((string)$_smarty_tpl->tpl_vars[\'configure_type\']->value)."/index.tpl' => 1,
   ),
 ),false)) {
-function content_6047258490f1c3_66364138 (Smarty_Internal_Template $_smarty_tpl) {
+function content_604755419db7a4_09117947 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="content-div">
     <div class="grid">

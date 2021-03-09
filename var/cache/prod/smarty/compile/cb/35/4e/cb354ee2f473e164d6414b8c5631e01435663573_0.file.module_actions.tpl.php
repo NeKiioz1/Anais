@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-03-09 08:36:37
+/* Smarty version 3.1.34-dev-7, created on 2021-03-09 12:00:18
   from 'C:\wamp64\www\anais\modules\ps_themecusto\views\templates\admin\controllers\configuration\elem\module_actions.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_604725855c2898_14243312',
+  'unifunc' => 'content_6047554279b016_28612175',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_604725855c2898_14243312 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6047554279b016_28612175 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="loader src_loader_<?php echo $_smarty_tpl->tpl_vars['module']->value['name'];?>
 "></div>
 

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-03-09 08:55:56
+/* Smarty version 3.1.34-dev-7, created on 2021-03-09 12:00:32
   from 'C:\wamp64\www\anais\modules\ps_imageslider\views\templates\hook\list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_60472a0c835ac4_32155337',
+  'unifunc' => 'content_60475550a6a5d1_26951519',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_60472a0c835ac4_32155337 (Smarty_Internal_Template $_smarty_tpl) {
+function content_60475550a6a5d1_26951519 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="panel"><h3><i class="icon-list-ul"></i> <?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Slides list','d'=>'Modules.Imageslider.Admin'),$_smarty_tpl ) );?>
 
 	<span class="panel-heading-action">
