@@ -126,3 +126,38 @@ changer ce block pour changer les bordures de la barre de recherche */
 
 
 .btn-primary {background-color: #A5C636;} /* modification du background des boutons */
+
+.products {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    width: 1140px;
+} /* centrer les articles */
+
+
+
+ /* #header .logo {
+    max-width: 100%
+} pour modifier la taille du logo dans le theme.css ligne 12652*/
+
+
+
+/*   @media (min-width:1200px) {
+    .container {
+        width: 100%
+        max-width: 70%  }
+} modifier ce block à la ligne 840 du theme.css pour modifier la taille du header. */
+
+
+
+/* #header .header-top .search-widget {
+    float: right
+    margin-right: 150px;
+} modifier ce block ligne 12805 dans theme.css pour modifier la place de la barre de recherche */
+
+
+.header-top{
+	max-width: 70%;
+	margin: 0 auto;
+}

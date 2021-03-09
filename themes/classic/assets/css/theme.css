@@ -838,7 +838,7 @@ pre code {
 
 @media (min-width:1200px) {
     .container {
-        width: 1140px;
+        width: 100%;
         max-width: 100%
     }
 }
@@ -12650,7 +12650,7 @@ body#checkout #hook-display-after-carrier>[class^=col].links .row>[class^=col] {
 }
 
 #header .logo {
-    max-width: 100%
+    max-width: 125%
 }
 
 #header a {
@@ -12794,6 +12794,7 @@ body#checkout #hook-display-after-carrier>[class^=col].links .row>[class^=col] {
 
 #header .header-top .position-static {
     position: static
+    margin-right: 250px;
 }
 
 #header .header-top a[data-depth="0"] {
@@ -12803,6 +12804,7 @@ body#checkout #hook-display-after-carrier>[class^=col].links .row>[class^=col] {
 
 #header .header-top .search-widget {
     float: right
+    margin-right: 150px;
 }
 
 #header .top-menu-link {
